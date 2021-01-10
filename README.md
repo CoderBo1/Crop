@@ -22,5 +22,6 @@ Only three algorithms are used to predict the output. They are *Logistic Regress
 *Random Forest Classifier* is used for development of model.
 
 ## Deployment : 
-I have used both *flask* and *streamlit* to create the application.\
+I have used both *flask* and *streamlit* libraries to create the application.\
 The application is deployed in *Heroku* platform.
+App URL : https://crop-recommend.herokuapp.com/
