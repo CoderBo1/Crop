@@ -15,4 +15,12 @@ Finally,
 Exploratory data analysis carried out to fetch insights from the data.
 
 ## Algorithm :
-Only two algorithms are used to predict the output. They are *Logistic Regression* and *Random Forest*.
+Only three algorithms are used to predict the output. They are *Logistic Regression*, *XGBoost* and *Random Forest*.\
+1. Accuracy of the model using Logistic Regression is 95%.
+2. Accuracy of the model using Random Forest Classifier is 99%.
+3. Accuracy of the model using XGBoost Classifier is 99%.\
+*Random Forest Classifier* is used for development of model.
+
+## Deployment : 
+I have used both *flask* and *streamlit* to create the application.\
+The application is deployed in *Heroku* platform.
